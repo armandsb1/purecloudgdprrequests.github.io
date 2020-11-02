@@ -1,6 +1,6 @@
 {
   // Step 1: Use `publishConfig` option in your package.json
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "name": "purecloud-gdpr-requests",
   "version": "1.0.0",
   "description": "",
